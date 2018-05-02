@@ -1,0 +1,50 @@
+<resources>
+    <!--Main Activity -->
+    <string name="teamActions">Team Actions</string>
+    <string name="teamStats">Team Stats</string>
+    <string name="teamRota">Team Calendar</string>
+    <string name="teamMeeting">Team Meeting</string>
+    <string name="app_name">Team Manager</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="date_picker_title">Hire Date</string>
+    <string name="grid_layout"> Team Manager</string>
+
+    <!--ViewTeamActivity-->
+    <string name="Add_New">Add New</string>
+    <string name="edit">Edit Person</string>
+    <string name="delete">Delete Person</string>
+    <string name="save">Save Person</string>
+
+    <!--CreateOrEdit Activity-->
+    <string name="firstname">First Name</string>
+    <string name="secondname">Surname</string>
+    <string name="gender">Gender</string>
+    <string name="maleRB">Male</string>
+    <string name="femaleRB">Female</string>
+    <string name="email">Email</string>
+    <string name="role">Role</string>
+    <string name="hiredate">Hire Date</string>
+
+    <string name="spinner_title">Role</string>
+    <string name="spinner_team_title">Team</string>
+
+    <string name="current_team">Current Team</string>
+    <string name="current_role">Role</string>
+    <string name="send_rota">Send</string>
+
+    <string name="deletePerson">Confirm person deletion.</string>
+    <string name="yes">Confirm</string>
+    <string name="no">Cancel</string>
+    <string name="title_activity_activity_edit">CreateOrEditActivity</string>
+
+    <!--Team Chart activity-->
+    <string name="select_data">Select Data to Display:</string>
+
+    <!--Team Rota Activity-->
+    <string name="teamName">Team</string>
+    <string name="personName">Name</string>
+    <string name="present">Present</string>
+    <string name="holidays">Holiday</string>
+    <string name="absense"> Absent</string>
+
+</resources>

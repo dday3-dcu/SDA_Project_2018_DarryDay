@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="role_array">
+        <item></item>
+        <item>Supervisor</item>
+        <item>Engineer</item>
+        <item>Technician</item>
+    </string-array>
+
+    <string-array name="team_array">
+        <item></item>
+        <item>Team Blue</item>
+        <item>Team Green</item>
+        <item>Team Red</item>
+    </string-array>
+
+    <string-array name="data_array">
+        <item></item>
+        <item>Team Allocation</item>
+        <item>Gender Balance</item>
+        <item>Roles in Team</item>
+    </string-array>
+</resources>

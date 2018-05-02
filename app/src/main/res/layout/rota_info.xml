@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/personFirstName"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:padding="@dimen/activity_vertical_margin" />
+
+        <TextView
+            android:id="@+id/personSecondName"
+            android:layout_width="127dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:padding="@dimen/activity_vertical_margin" />
+
+    <RadioGroup
+        android:id="@+id/radio_team"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/radioPresent"
+            android:layout_width="54dp"
+            android:layout_height="49dp"
+            android:layout_weight="1" />
+
+        <RadioButton
+            android:id="@+id/radioHoliday"
+            android:layout_width="52dp"
+            android:layout_height="49dp"
+            android:layout_weight="1" />
+
+        <RadioButton
+            android:id="@+id/radioTeamAbsent"
+            android:layout_width="46dp"
+            android:layout_height="49dp"
+            android:layout_weight="1" />
+    </RadioGroup>
+
+</LinearLayout>
+
